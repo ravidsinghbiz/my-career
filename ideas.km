@@ -1,0 +1,140 @@
+{
+    "root": {
+        "data": {
+            "id": "cj99lff0bj40",
+            "created": 1649868565274,
+            "text": "A Career"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cj99oiwicg80",
+                    "created": 1649868807955,
+                    "text": "Is a Strategy?"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cja2oci8bdc0",
+                            "created": 1649950606218,
+                            "text": "Use Wardley Map"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cja2oq00xg80",
+                                    "created": 1649950635592,
+                                    "text": "Cynefin?"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cja5srkuheg0",
+                            "created": 1649959415814,
+                            "text": "A career is the war but each of degree, positions, employer, certification, license is a battle"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cja2hfgo68o0",
+                    "created": 1649950064105,
+                    "text": "Personalized product per person"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cja2qicl0800",
+                            "created": 1649950775666,
+                            "text": "Design Thinking for non-existant job"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cja2rhdcd0o0",
+                            "created": 1649950851899,
+                            "text": "Product ownership for existing job"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cja662ehgps0",
+                    "created": 1649960458108,
+                    "text": "Observe-Orient-Decide-Act loops",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cja2vnutkjc0",
+                            "created": 1649951179473,
+                            "text": "Situation-Task-Action-Result loops"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cja70cviu6o0",
+                    "created": 1649962831831,
+                    "text": "Job Market"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cja7hakd5q00",
+                            "created": 1649964158994,
+                            "text": "Market Analysis"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cja7hn4m3mo0",
+                            "created": 1649964186340,
+                            "text": "Position Analysis"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cja7j7qmhjk0",
+                            "created": 1649964309570,
+                            "text": "Skill Analysis"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cja7jedb7dk0",
+                            "created": 1649964324003,
+                            "text": "Employer Analysis"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cja7ll3sjt40",
+                            "created": 1649964495393,
+                            "text": "Industry Analysis"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
