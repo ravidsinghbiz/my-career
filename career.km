@@ -37,6 +37,14 @@
                             "text": "A career is the war but each of degree, positions, employer, certification, license is a battle"
                         },
                         "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjfresefc0w0",
+                            "created": 1650528184706,
+                            "text": "Career path is a single journey thru the strategy"
+                        },
+                        "children": []
                     }
                 ]
             },
@@ -77,7 +85,15 @@
                         "data": {
                             "id": "cja2vnutkjc0",
                             "created": 1649951179473,
-                            "text": "Situation-Task-Action-Result loops"
+                            "text": "Situation-Task-Action-Results"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjg0xaqzv6o0",
+                            "created": 1650555025192,
+                            "text": "Situation-Obstacles-Action-Results"
                         },
                         "children": []
                     }
@@ -112,13 +128,80 @@
                             "created": 1649964309570,
                             "text": "Skill Analysis"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjfrkeu0i8w0",
+                                    "created": 1650528625359,
+                                    "text": "How critical is this to the organization?"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjfrkyax2p40",
+                                    "created": 1650528667740,
+                                    "text": "Do I want the skill?"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjfrluc16340",
+                                    "created": 1650528737464,
+                                    "text": "Can I substitute for something else?"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjfrnfywjx40",
+                                    "created": 1650528862923,
+                                    "text": "Acquire or Outsource the skill?",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cjfrnqzz4k80",
+                                            "created": 1650528886933,
+                                            "text": "OODA Skill loop"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cjfrljuoikg0",
+                                            "created": 1650528714647,
+                                            "text": "Can I acquire the skill? If so, how quickly?"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cjfs1ahzj3s0",
+                                    "created": 1650529948115,
+                                    "text": "How liquid are the skills at the organization?"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjfs20cb0e00",
+                                    "created": 1650530004368,
+                                    "text": "How liquid are the skills in the market?"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
                             "id": "cja7jedb7dk0",
                             "created": 1649964324003,
-                            "text": "Employer Analysis"
+                            "text": "Organization Analysis"
                         },
                         "children": []
                     },

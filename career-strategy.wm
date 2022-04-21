@@ -5,3 +5,7 @@ y-axis Value Chain->Invisible->Visible
 //evolution Genesis->Custom-built->Product->Commodity
 evolution Novel->Emerging->Good->Best
 //evolution Unmoddled->Divergent->Convergent->Modeled
+title Career Path
+anchor Employee [0.95, 0.5]
+anchor Employer [0.95, 0.78]
+
