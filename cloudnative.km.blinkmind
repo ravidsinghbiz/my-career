@@ -1,0 +1,1498 @@
+{
+  "rootTopicKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+  "editorRootTopicKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+  "focusKey": "45509ffa-7c2c-454c-8c22-724dcd0e4b4c",
+  "extData": {
+    "TOPIC_REFERENCE": {
+      "reference": {}
+    }
+  },
+  "topics": [
+    {
+      "key": "af438e16-3d67-4746-98bc-68fd9f7252b4",
+      "parentKey": "942d3333-3138-49f6-ab6f-7d1bdf8f447f",
+      "subKeys": [
+        "246c8a83-e2ac-452f-8691-9bba062ee621",
+        "9a0a6919-5e9a-4673-8dcb-cdc65af3004f",
+        "01808cb3-e386-4339-bf5f-de293c6968fb"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Load Testing"
+        }
+      ]
+    },
+    {
+      "key": "2569852b-3209-4dda-9d0a-2ffed9931de5",
+      "parentKey": "961f6f95-5502-455d-a90b-05b8c0596f83",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Application<==>Onramps"
+        }
+      ]
+    },
+    {
+      "key": "bc6ebad9-2a35-46a9-88fa-37aaaab9c304",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [
+        "20c1645d-0824-4e0b-a612-b5ee8ffdcdfd",
+        "20d102e3-7f6d-4c2c-b7b2-6a6065b2f641",
+        "7d6d98b2-d289-4f02-b5f1-be0943503647",
+        "90e7554c-4bf7-4ac3-abcc-3d0bcbcedda8"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Applications"
+        }
+      ]
+    },
+    {
+      "key": "b778f538-1503-4a25-b2e5-bd42e687f99e",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [
+        "c911570e-2359-4b88-ba54-ed4d27c063c2",
+        "f13dbacd-2d5e-4d10-9181-ed81f610274e",
+        "a52f8484-c3c6-45ad-bf7a-d049d1fcd268",
+        "cf54209d-3051-4d21-9d6a-42764762f825",
+        "75433a16-e00a-4e08-a063-63fb27851f3a",
+        "8f394014-fd1d-4f59-9e06-d4e510fca993",
+        "be287a2a-bb17-481c-829b-26bcfbd4996a",
+        "a0a274e7-7b07-4664-97dd-7f7ccfa2fbd5"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Public Cloud"
+        }
+      ]
+    },
+    {
+      "key": "2199f7b2-c970-48d9-9754-54ab34fe37e7",
+      "parentKey": "72deaf61-fb15-45e7-a90b-78b9524372fb",
+      "subKeys": [
+        "d065c988-ed20-4d2d-a673-ebb40330b440",
+        "294f4a66-707a-43d0-aeba-0a040f93d815",
+        "298935d9-b828-4c1c-975f-eee2100d4152",
+        "964c3a8f-3ddb-40c6-9f09-395b6eabf86e",
+        "d3638a6d-bafc-427b-bf68-589c9044b47a"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Pipelines"
+        }
+      ]
+    },
+    {
+      "key": "2e9d036b-c8e6-4221-88c8-b06274734a26",
+      "parentKey": "961f6f95-5502-455d-a90b-05b8c0596f83",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Queue Manager Hubs"
+        }
+      ]
+    },
+    {
+      "key": "7cd69206-d930-4b90-b3ec-d4c49653716c",
+      "parentKey": "dce07851-6a8d-43c4-b6e6-5ece0050e449",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Github"
+        }
+      ]
+    },
+    {
+      "key": "0c9864a3-2676-4d3e-9541-d2913b293113",
+      "parentKey": "2e0f840d-7bca-491c-a19a-6c9c2b6f81b5",
+      "subKeys": [
+        "9bae1aa4-3c93-492e-905f-61fe473138c7"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Metrics"
+        }
+      ]
+    },
+    {
+      "key": "cb9f3dc8-0f8c-4ee8-b343-c7dda0a498f1",
+      "parentKey": "c0ffe9ac-f91a-4e39-b4e9-6719134f647a",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "TLS 1.2+"
+        }
+      ]
+    },
+    {
+      "key": "e1cc6a4b-2acb-48b2-9bcc-89df7df70585",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [
+        "6fdf38d3-0426-4b95-8ca2-4fd90d0e5531",
+        "995da5a0-4b2f-4cf0-b257-4056b86004a7"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Architecture"
+        }
+      ]
+    },
+    {
+      "key": "be752bcf-996e-443f-b369-13579a36199c",
+      "parentKey": "b64f9e31-2007-4c38-9665-face35951c69",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Container Image Scanning"
+        }
+      ]
+    },
+    {
+      "key": "e65bbe84-819c-4c3d-8749-d9db2b317ffe",
+      "parentKey": "6b75db58-b7ae-418d-bc5c-2ae0321d3c90",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "ELK Stack"
+        }
+      ]
+    },
+    {
+      "key": "c911570e-2359-4b88-ba54-ed4d27c063c2",
+      "parentKey": "b778f538-1503-4a25-b2e5-bd42e687f99e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "AWS"
+        }
+      ]
+    },
+    {
+      "key": "d1585fed-7e67-4cf7-be1b-d0f25e6b28e4",
+      "parentKey": "20c1645d-0824-4e0b-a612-b5ee8ffdcdfd",
+      "subKeys": [
+        "93b4600d-c548-4f78-9356-a9fdd335e901"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Streaming"
+        }
+      ]
+    },
+    {
+      "key": "46481d68-6f67-4f0a-a31a-1ce5f47d4f7c",
+      "parentKey": "2b21e836-e803-4f66-a4ad-2dee56716b46",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "RabbitMQ"
+        }
+      ]
+    },
+    {
+      "key": "2b21e836-e803-4f66-a4ad-2dee56716b46",
+      "parentKey": "20c1645d-0824-4e0b-a612-b5ee8ffdcdfd",
+      "subKeys": [
+        "961f6f95-5502-455d-a90b-05b8c0596f83",
+        "46481d68-6f67-4f0a-a31a-1ce5f47d4f7c"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Messaging"
+        }
+      ]
+    },
+    {
+      "key": "6fc2c6d8-d7d9-4237-a1b4-43d96eafffcc",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [
+        "48d5ff14-fd3c-4ac1-b1eb-90dcfe354238"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Virtual Machines"
+        }
+      ]
+    },
+    {
+      "key": "ab32c441-a2a2-4255-bfd0-bb0c5cfe60d7",
+      "parentKey": "942d3333-3138-49f6-ab6f-7d1bdf8f447f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Executable Requirements Specification Functional Testing"
+        }
+      ]
+    },
+    {
+      "key": "f0cc25bc-e3c3-4061-b10f-7c5d6be76baa",
+      "parentKey": "90e7554c-4bf7-4ac3-abcc-3d0bcbcedda8",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Windows 2003/2008"
+        }
+      ]
+    },
+    {
+      "key": "155249e7-4e71-474e-8ab7-04211f8cb20a",
+      "parentKey": "961f6f95-5502-455d-a90b-05b8c0596f83",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "MQ IPT Proxies"
+        }
+      ]
+    },
+    {
+      "key": "294f4a66-707a-43d0-aeba-0a040f93d815",
+      "parentKey": "2199f7b2-c970-48d9-9754-54ab34fe37e7",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Argo"
+        }
+      ]
+    },
+    {
+      "key": "80072000-a68f-4b40-9f1c-c13b47cfa7f0",
+      "parentKey": "2b4d98a5-ed7d-4a5f-ba69-71ce95ffa065",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Docker Trusted Repository"
+        }
+      ]
+    },
+    {
+      "key": "c1faa969-d4c1-43d8-9e9a-ba5bbfbc55b5",
+      "parentKey": "2ca1a549-4311-4ed4-8fe9-48921fa1fea9",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Openfaas"
+        }
+      ]
+    },
+    {
+      "key": "2b4d98a5-ed7d-4a5f-ba69-71ce95ffa065",
+      "parentKey": "72deaf61-fb15-45e7-a90b-78b9524372fb",
+      "subKeys": [
+        "80072000-a68f-4b40-9f1c-c13b47cfa7f0",
+        "35aed593-f4a1-4673-98b5-28b8fa4d379a",
+        "706f4ff9-ef23-40ff-90d1-72a4b0f5d155"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Artifacts"
+        }
+      ]
+    },
+    {
+      "key": "3ffc18ac-4958-409f-a21d-9862ec6dd286",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Design"
+        }
+      ]
+    },
+    {
+      "key": "a7b3cbf8-9e22-4150-a62a-5895c0979aa8",
+      "parentKey": "6b75db58-b7ae-418d-bc5c-2ae0321d3c90",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Zipkin"
+        }
+      ]
+    },
+    {
+      "key": "9bae1aa4-3c93-492e-905f-61fe473138c7",
+      "parentKey": "0c9864a3-2676-4d3e-9541-d2913b293113",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Thanos/Prometheus"
+        }
+      ]
+    },
+    {
+      "key": "d3638a6d-bafc-427b-bf68-589c9044b47a",
+      "parentKey": "2199f7b2-c970-48d9-9754-54ab34fe37e7",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Jenkins-X"
+        }
+      ]
+    },
+    {
+      "key": "795239ec-b105-454b-89c8-a9a1b2060bd6",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Education"
+        }
+      ]
+    },
+    {
+      "key": "45509ffa-7c2c-454c-8c22-724dcd0e4b4c",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Kubernetes"
+        }
+      ]
+    },
+    {
+      "key": "fa8d391f-34b7-4ecd-9880-a0935b3edc41",
+      "parentKey": "6fdf38d3-0426-4b95-8ca2-4fd90d0e5531",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "https://12factor.net/"
+        }
+      ]
+    },
+    {
+      "key": "be287a2a-bb17-481c-829b-26bcfbd4996a",
+      "parentKey": "b778f538-1503-4a25-b2e5-bd42e687f99e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Tencent"
+        }
+      ]
+    },
+    {
+      "key": "942d3333-3138-49f6-ab6f-7d1bdf8f447f",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [
+        "a1f37e0c-8e58-4813-81d4-b3ef0b4dda35",
+        "4df939c1-8c09-488b-b9be-4c9be1cf7ac0",
+        "d3d1f634-7add-44fb-84ea-df2fec0fa32e",
+        "ab32c441-a2a2-4255-bfd0-bb0c5cfe60d7",
+        "af438e16-3d67-4746-98bc-68fd9f7252b4"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Testing"
+        }
+      ]
+    },
+    {
+      "key": "26f99783-23d5-4ea4-ae8e-66ca96dc6920",
+      "parentKey": "720ff8a8-3238-4cb4-936e-a6b150a537a3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Application licensing changes"
+        }
+      ]
+    },
+    {
+      "key": "a229f938-c3d9-43d5-bfc1-cb8fc76c76c9",
+      "parentKey": "dce07851-6a8d-43c4-b6e6-5ece0050e449",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Internal Git"
+        }
+      ]
+    },
+    {
+      "key": "7a361250-3296-4c27-8fe4-186d23a0ec49",
+      "parentKey": "6b75db58-b7ae-418d-bc5c-2ae0321d3c90",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Jaeger"
+        }
+      ]
+    },
+    {
+      "key": "bd636b33-e020-43d4-a0ae-cf3cd1cec594",
+      "parentKey": "b64f9e31-2007-4c38-9665-face35951c69",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Software Bill of Materials"
+        }
+      ]
+    },
+    {
+      "key": "74ca89e4-1d9c-40fe-a71d-2c8a9d0e18f2",
+      "parentKey": "3322e940-7a5c-4445-bcf2-c300abec2e68",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "NVidia Jetson Nano"
+        }
+      ]
+    },
+    {
+      "key": "5e88360b-1dc0-42d1-81ec-5b3c0a96606e",
+      "parentKey": "720ff8a8-3238-4cb4-936e-a6b150a537a3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Public vs. private"
+        }
+      ]
+    },
+    {
+      "key": "0692067f-139e-46b2-bb82-3f51b36ebc89",
+      "parentKey": "995da5a0-4b2f-4cf0-b257-4056b86004a7",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "https://martinfowler.com/articles/break-monolith-into-microservices.html﻿"
+        }
+      ]
+    },
+    {
+      "key": "298935d9-b828-4c1c-975f-eee2100d4152",
+      "parentKey": "2199f7b2-c970-48d9-9754-54ab34fe37e7",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Tekton"
+        }
+      ]
+    },
+    {
+      "key": "ad8aa797-1e8c-4ee3-8233-c58a9fc5d8fb",
+      "parentKey": "dce07851-6a8d-43c4-b6e6-5ece0050e449",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Azure Repos"
+        }
+      ]
+    },
+    {
+      "key": "72deaf61-fb15-45e7-a90b-78b9524372fb",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [
+        "dce07851-6a8d-43c4-b6e6-5ece0050e449",
+        "2b4d98a5-ed7d-4a5f-ba69-71ce95ffa065",
+        "2199f7b2-c970-48d9-9754-54ab34fe37e7"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "CICD"
+        }
+      ]
+    },
+    {
+      "key": "90e7554c-4bf7-4ac3-abcc-3d0bcbcedda8",
+      "parentKey": "bc6ebad9-2a35-46a9-88fa-37aaaab9c304",
+      "subKeys": [
+        "f0cc25bc-e3c3-4061-b10f-7c5d6be76baa",
+        "03311b81-8958-40e8-acce-639b07cafa88",
+        "3a6231a9-8e5f-488e-9cc0-2c6d04d11429"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Migration"
+        }
+      ]
+    },
+    {
+      "key": "a2b86121-ca48-44f8-b376-8e7c93ca86dd",
+      "parentKey": "2e0f840d-7bca-491c-a19a-6c9c2b6f81b5",
+      "subKeys": [
+        "d870b00f-ec0b-468a-bfc8-93517c4448ac"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Centralized Logging"
+        }
+      ]
+    },
+    {
+      "key": "6a39fe92-eb6f-482b-a896-e4a6395fc19d",
+      "parentKey": "6b75db58-b7ae-418d-bc5c-2ae0321d3c90",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Sysdig"
+        }
+      ]
+    },
+    {
+      "key": "3322e940-7a5c-4445-bcf2-c300abec2e68",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [
+        "caaafcbd-90e5-4e3e-a038-2b0160e5265f",
+        "74ca89e4-1d9c-40fe-a71d-2c8a9d0e18f2"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Private Cloud"
+        }
+      ]
+    },
+    {
+      "key": "c1886201-1dd5-48a7-8c5b-5f45c136b3a5",
+      "parentKey": "c0ffe9ac-f91a-4e39-b4e9-6719134f647a",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Certificate management"
+        }
+      ]
+    },
+    {
+      "key": "d065c988-ed20-4d2d-a673-ebb40330b440",
+      "parentKey": "2199f7b2-c970-48d9-9754-54ab34fe37e7",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Azure Pipelines"
+        }
+      ]
+    },
+    {
+      "key": "35aed593-f4a1-4673-98b5-28b8fa4d379a",
+      "parentKey": "2b4d98a5-ed7d-4a5f-ba69-71ce95ffa065",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Internal jFrog"
+        }
+      ]
+    },
+    {
+      "key": "2e0f840d-7bca-491c-a19a-6c9c2b6f81b5",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [
+        "830f96bb-87f6-4d96-970e-d4e3857bb689",
+        "0c9864a3-2676-4d3e-9541-d2913b293113",
+        "a2b86121-ca48-44f8-b376-8e7c93ca86dd",
+        "6b75db58-b7ae-418d-bc5c-2ae0321d3c90"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Observability"
+        }
+      ]
+    },
+    {
+      "key": "01808cb3-e386-4339-bf5f-de293c6968fb",
+      "parentKey": "af438e16-3d67-4746-98bc-68fd9f7252b4",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "JMeter"
+        }
+      ]
+    },
+    {
+      "key": "a815e456-370e-409c-9868-d4957370c0c0",
+      "parentKey": "b64f9e31-2007-4c38-9665-face35951c69",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Active Directory Authentication & Authorization"
+        }
+      ]
+    },
+    {
+      "key": "48d5ff14-fd3c-4ac1-b1eb-90dcfe354238",
+      "parentKey": "6fc2c6d8-d7d9-4237-a1b4-43d96eafffcc",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "http://packer.io for golden images"
+        }
+      ]
+    },
+    {
+      "key": "b64f9e31-2007-4c38-9665-face35951c69",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [
+        "bc282e4a-def9-4343-b728-35e23095da22",
+        "be752bcf-996e-443f-b369-13579a36199c",
+        "a815e456-370e-409c-9868-d4957370c0c0",
+        "c0ffe9ac-f91a-4e39-b4e9-6719134f647a",
+        "bd636b33-e020-43d4-a0ae-cf3cd1cec594",
+        "9150d0f3-fa04-49e3-b04b-0520d00c8ab1"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Security"
+        }
+      ]
+    },
+    {
+      "key": "2ca1a549-4311-4ed4-8fe9-48921fa1fea9",
+      "parentKey": "5534a8b0-228e-4f37-ac9e-516405aa2e56",
+      "subKeys": [
+        "c1faa969-d4c1-43d8-9e9a-ba5bbfbc55b5",
+        "2c26507d-de02-42bf-a27c-19b2e8360505",
+        "d57f5224-9e0e-489c-93db-799121b14d9e"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Functions"
+        }
+      ]
+    },
+    {
+      "key": "53922fad-5355-4138-b2d8-87e491c15f34",
+      "parentKey": "720ff8a8-3238-4cb4-936e-a6b150a537a3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Support"
+        }
+      ]
+    },
+    {
+      "key": "246c8a83-e2ac-452f-8691-9bba062ee621",
+      "parentKey": "af438e16-3d67-4746-98bc-68fd9f7252b4",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Selenium"
+        }
+      ]
+    },
+    {
+      "key": "830f96bb-87f6-4d96-970e-d4e3857bb689",
+      "parentKey": "2e0f840d-7bca-491c-a19a-6c9c2b6f81b5",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "OpenTelemetry"
+        }
+      ]
+    },
+    {
+      "key": "8f394014-fd1d-4f59-9e06-d4e510fca993",
+      "parentKey": "b778f538-1503-4a25-b2e5-bd42e687f99e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "MacStadium"
+        }
+      ]
+    },
+    {
+      "key": "5534a8b0-228e-4f37-ac9e-516405aa2e56",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [
+        "730a861d-22f1-4628-b887-94f830d78a9d",
+        "e8fec644-d317-436c-b485-e99239f8fe15",
+        "2ca1a549-4311-4ed4-8fe9-48921fa1fea9"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "X-as-a-service"
+        }
+      ]
+    },
+    {
+      "key": "caaafcbd-90e5-4e3e-a038-2b0160e5265f",
+      "parentKey": "3322e940-7a5c-4445-bcf2-c300abec2e68",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Raspberry PI"
+        }
+      ]
+    },
+    {
+      "key": "e8fec644-d317-436c-b485-e99239f8fe15",
+      "parentKey": "5534a8b0-228e-4f37-ac9e-516405aa2e56",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Load Balancers & Proxies"
+        }
+      ]
+    },
+    {
+      "key": "4df939c1-8c09-488b-b9be-4c9be1cf7ac0",
+      "parentKey": "942d3333-3138-49f6-ab6f-7d1bdf8f447f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Robot Process Automation"
+        }
+      ]
+    },
+    {
+      "key": "f13dbacd-2d5e-4d10-9181-ed81f610274e",
+      "parentKey": "b778f538-1503-4a25-b2e5-bd42e687f99e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Azure"
+        }
+      ]
+    },
+    {
+      "key": "3a6231a9-8e5f-488e-9cc0-2c6d04d11429",
+      "parentKey": "90e7554c-4bf7-4ac3-abcc-3d0bcbcedda8",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Old Redhat/SLES"
+        }
+      ]
+    },
+    {
+      "key": "964c3a8f-3ddb-40c6-9f09-395b6eabf86e",
+      "parentKey": "2199f7b2-c970-48d9-9754-54ab34fe37e7",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Jenkins"
+        }
+      ]
+    },
+    {
+      "key": "c0ffe9ac-f91a-4e39-b4e9-6719134f647a",
+      "parentKey": "b64f9e31-2007-4c38-9665-face35951c69",
+      "subKeys": [
+        "cb9f3dc8-0f8c-4ee8-b343-c7dda0a498f1",
+        "c1886201-1dd5-48a7-8c5b-5f45c136b3a5"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Encryption"
+        }
+      ]
+    },
+    {
+      "key": "d3d1f634-7add-44fb-84ea-df2fec0fa32e",
+      "parentKey": "942d3333-3138-49f6-ab6f-7d1bdf8f447f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "PowerShell Pester for Windows and containers"
+        }
+      ]
+    },
+    {
+      "key": "318ae59d-89d1-4e5e-8679-461dce97a9b7",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Compliance"
+        }
+      ]
+    },
+    {
+      "key": "720ff8a8-3238-4cb4-936e-a6b150a537a3",
+      "parentKey": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "subKeys": [
+        "26f99783-23d5-4ea4-ae8e-66ca96dc6920",
+        "a71772b2-0fc4-43fb-b4bf-850f935db4e0",
+        "5e88360b-1dc0-42d1-81ec-5b3c0a96606e",
+        "53922fad-5355-4138-b2d8-87e491c15f34"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Financial Analysis"
+        }
+      ]
+    },
+    {
+      "key": "2c26507d-de02-42bf-a27c-19b2e8360505",
+      "parentKey": "2ca1a549-4311-4ed4-8fe9-48921fa1fea9",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "\nOpenwhisk/IBM Functions"
+        }
+      ]
+    },
+    {
+      "key": "730a861d-22f1-4628-b887-94f830d78a9d",
+      "parentKey": "5534a8b0-228e-4f37-ac9e-516405aa2e56",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Relational databases"
+        }
+      ]
+    },
+    {
+      "key": "03311b81-8958-40e8-acce-639b07cafa88",
+      "parentKey": "90e7554c-4bf7-4ac3-abcc-3d0bcbcedda8",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "HPUX"
+        }
+      ]
+    },
+    {
+      "key": "d57f5224-9e0e-489c-93db-799121b14d9e",
+      "parentKey": "2ca1a549-4311-4ed4-8fe9-48921fa1fea9",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": ""
+        }
+      ]
+    },
+    {
+      "key": "93b4600d-c548-4f78-9356-a9fdd335e901",
+      "parentKey": "d1585fed-7e67-4cf7-be1b-d0f25e6b28e4",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Real time Enterprise"
+        }
+      ]
+    },
+    {
+      "key": "961f6f95-5502-455d-a90b-05b8c0596f83",
+      "parentKey": "2b21e836-e803-4f66-a4ad-2dee56716b46",
+      "subKeys": [
+        "2e9d036b-c8e6-4221-88c8-b06274734a26",
+        "155249e7-4e71-474e-8ab7-04211f8cb20a",
+        "db662b74-0bce-4712-9e30-b7e282710b02",
+        "2569852b-3209-4dda-9d0a-2ffed9931de5"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "IBM MQ"
+        }
+      ]
+    },
+    {
+      "key": "20d102e3-7f6d-4c2c-b7b2-6a6065b2f641",
+      "parentKey": "bc6ebad9-2a35-46a9-88fa-37aaaab9c304",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Big Data"
+        }
+      ]
+    },
+    {
+      "key": "6fdf38d3-0426-4b95-8ca2-4fd90d0e5531",
+      "parentKey": "e1cc6a4b-2acb-48b2-9bcc-89df7df70585",
+      "subKeys": [
+        "fa8d391f-34b7-4ecd-9880-a0935b3edc41",
+        "95301188-97d3-47be-b89c-04444e8a6ffd",
+        "a7303e5d-8c13-4bbd-9143-4f2da86a8ae3"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "12-Factor"
+        }
+      ]
+    },
+    {
+      "key": "20c1645d-0824-4e0b-a612-b5ee8ffdcdfd",
+      "parentKey": "bc6ebad9-2a35-46a9-88fa-37aaaab9c304",
+      "subKeys": [
+        "2b21e836-e803-4f66-a4ad-2dee56716b46",
+        "d1585fed-7e67-4cf7-be1b-d0f25e6b28e4"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Middleware"
+        }
+      ]
+    },
+    {
+      "key": "bc282e4a-def9-4343-b728-35e23095da22",
+      "parentKey": "b64f9e31-2007-4c38-9665-face35951c69",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Container Image Signing"
+        }
+      ]
+    },
+    {
+      "key": "a0a274e7-7b07-4664-97dd-7f7ccfa2fbd5",
+      "parentKey": "b778f538-1503-4a25-b2e5-bd42e687f99e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Alibaba"
+        }
+      ]
+    },
+    {
+      "key": "d870b00f-ec0b-468a-bfc8-93517c4448ac",
+      "parentKey": "a2b86121-ca48-44f8-b376-8e7c93ca86dd",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Security Splunk"
+        }
+      ]
+    },
+    {
+      "key": "db662b74-0bce-4712-9e30-b7e282710b02",
+      "parentKey": "961f6f95-5502-455d-a90b-05b8c0596f83",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "MFT==Queue Onramps"
+        }
+      ]
+    },
+    {
+      "key": "706f4ff9-ef23-40ff-90d1-72a4b0f5d155",
+      "parentKey": "2b4d98a5-ed7d-4a5f-ba69-71ce95ffa065",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Harbor"
+        }
+      ]
+    },
+    {
+      "key": "cf54209d-3051-4d21-9d6a-42764762f825",
+      "parentKey": "b778f538-1503-4a25-b2e5-bd42e687f99e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Digital Ocean"
+        }
+      ]
+    },
+    {
+      "key": "dce07851-6a8d-43c4-b6e6-5ece0050e449",
+      "parentKey": "72deaf61-fb15-45e7-a90b-78b9524372fb",
+      "subKeys": [
+        "ad8aa797-1e8c-4ee3-8233-c58a9fc5d8fb",
+        "a229f938-c3d9-43d5-bfc1-cb8fc76c76c9",
+        "7cd69206-d930-4b90-b3ec-d4c49653716c"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Version Control"
+        }
+      ]
+    },
+    {
+      "key": "a7303e5d-8c13-4bbd-9143-4f2da86a8ae3",
+      "parentKey": "6fdf38d3-0426-4b95-8ca2-4fd90d0e5531",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "https://github.com/xmlking/cloud-native-apps"
+        }
+      ]
+    },
+    {
+      "key": "7d6d98b2-d289-4f02-b5f1-be0943503647",
+      "parentKey": "bc6ebad9-2a35-46a9-88fa-37aaaab9c304",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Databases"
+        }
+      ]
+    },
+    {
+      "key": "42061215-b85f-4009-9f52-a202fdf20510",
+      "parentKey": "995da5a0-4b2f-4cf0-b257-4056b86004a7",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "https://thenewstack.io/from-monolith-to-microservices/"
+        }
+      ]
+    },
+    {
+      "key": "9150d0f3-fa04-49e3-b04b-0520d00c8ab1",
+      "parentKey": "b64f9e31-2007-4c38-9665-face35951c69",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Zero Trust"
+        }
+      ]
+    },
+    {
+      "key": "a52f8484-c3c6-45ad-bf7a-d049d1fcd268",
+      "parentKey": "b778f538-1503-4a25-b2e5-bd42e687f99e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Google Cloud"
+        }
+      ]
+    },
+    {
+      "key": "a71772b2-0fc4-43fb-b4bf-850f935db4e0",
+      "parentKey": "720ff8a8-3238-4cb4-936e-a6b150a537a3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Utility Pricing"
+        }
+      ]
+    },
+    {
+      "key": "2573724f-a16b-44d6-8485-1cb765a531fc",
+      "parentKey": null,
+      "subKeys": [
+        "5534a8b0-228e-4f37-ac9e-516405aa2e56",
+        "2e0f840d-7bca-491c-a19a-6c9c2b6f81b5",
+        "b778f538-1503-4a25-b2e5-bd42e687f99e",
+        "3322e940-7a5c-4445-bcf2-c300abec2e68",
+        "6fc2c6d8-d7d9-4237-a1b4-43d96eafffcc",
+        "720ff8a8-3238-4cb4-936e-a6b150a537a3",
+        "795239ec-b105-454b-89c8-a9a1b2060bd6",
+        "45509ffa-7c2c-454c-8c22-724dcd0e4b4c",
+        "e1cc6a4b-2acb-48b2-9bcc-89df7df70585",
+        "318ae59d-89d1-4e5e-8679-461dce97a9b7",
+        "72deaf61-fb15-45e7-a90b-78b9524372fb",
+        "b64f9e31-2007-4c38-9665-face35951c69",
+        "3ffc18ac-4958-409f-a21d-9862ec6dd286",
+        "bc6ebad9-2a35-46a9-88fa-37aaaab9c304",
+        "942d3333-3138-49f6-ab6f-7d1bdf8f447f"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Cloud Native"
+        },
+        {
+          "type": "TOPOLOGY",
+          "data": {
+            "nodes": [],
+            "lines": [],
+            "lineName": "curve",
+            "fromArrowType": "",
+            "toArrowType": "triangleSolid",
+            "scale": 1,
+            "locked": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "a1f37e0c-8e58-4813-81d4-b3ef0b4dda35",
+      "parentKey": "942d3333-3138-49f6-ab6f-7d1bdf8f447f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Inspec.io for Linux and Containers"
+        }
+      ]
+    },
+    {
+      "key": "95301188-97d3-47be-b89c-04444e8a6ffd",
+      "parentKey": "6fdf38d3-0426-4b95-8ca2-4fd90d0e5531",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/﻿"
+        }
+      ]
+    },
+    {
+      "key": "9a0a6919-5e9a-4673-8dcb-cdc65af3004f",
+      "parentKey": "af438e16-3d67-4746-98bc-68fd9f7252b4",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "SOAPUI"
+        }
+      ]
+    },
+    {
+      "key": "995da5a0-4b2f-4cf0-b257-4056b86004a7",
+      "parentKey": "e1cc6a4b-2acb-48b2-9bcc-89df7df70585",
+      "subKeys": [
+        "42061215-b85f-4009-9f52-a202fdf20510",
+        "0692067f-139e-46b2-bb82-3f51b36ebc89"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Container Conversion"
+        }
+      ]
+    },
+    {
+      "key": "75433a16-e00a-4e08-a063-63fb27851f3a",
+      "parentKey": "b778f538-1503-4a25-b2e5-bd42e687f99e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Linode"
+        }
+      ]
+    },
+    {
+      "key": "6b75db58-b7ae-418d-bc5c-2ae0321d3c90",
+      "parentKey": "2e0f840d-7bca-491c-a19a-6c9c2b6f81b5",
+      "subKeys": [
+        "6a39fe92-eb6f-482b-a896-e4a6395fc19d",
+        "a7b3cbf8-9e22-4150-a62a-5895c0979aa8",
+        "7a361250-3296-4c27-8fe4-186d23a0ec49",
+        "e65bbe84-819c-4c3d-8749-d9db2b317ffe"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Tracing"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 2,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5",
+        "fontSize": "16px"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "36px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "fontSize": "24px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "normalTopic": {
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      }
+    }
+  },
+  "formatVersion": "0.0"
+}
